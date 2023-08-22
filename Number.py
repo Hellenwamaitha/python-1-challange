@@ -3,3 +3,5 @@ def two_numbers(a, b, c):
         return True
     else:
         return False
+    
+    print(two_numbers(1,2,-8))
